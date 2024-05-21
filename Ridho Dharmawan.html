@@ -48,7 +48,6 @@
 <body>
    <div class="container">
         <div class="header">
-            <img src="https://elearning.sman3kotaserang.sch.id/pluginfile.php/1/theme_moove/logo/1706693235/logo.png" alt="Foto Profil">
             <h1>Ridho Dharmawan</h1>
             <p>Kota Serang , Banten | ridhodarmawan994@gmail.com | 0895-0268-0817 </p>
         </div>
